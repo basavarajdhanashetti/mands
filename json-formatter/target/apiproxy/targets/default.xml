@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><TargetEndpoint name="default">
+    <Description/>
+    <PreFlow name="PreFlow">
+        <Request/>
+        <Response/>
+    </PreFlow>
+    <Flows/>
+    <PostFlow name="PostFlow"/>
+    <ScriptTarget>
+        <ResourceURL>node://json-formatter.js</ResourceURL>
+        <Properties/>
+    </ScriptTarget>
+</TargetEndpoint>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="2" name="json-formatter">
+    <ConfigurationVersion minorVersion="0" majorVersion="4"/>
+    <CreatedBy>bdhanashetti@sapient.com</CreatedBy>
+    <Description>Recommended JSON formatter</Description>
+    <DisplayName>Marks and Spencers JSON Formatter</DisplayName>
+    
+    <Policies>
+        <Policy>JSON-to-XML-1</Policy>
+    </Policies>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources>
+        <Resource>node://json-formatter.js</Resource>
+    </Resources>
+    <TargetServers/>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+    <validate>false</validate>
+    
+</APIProxy>
