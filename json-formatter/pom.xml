@@ -32,7 +32,8 @@
 	
 	<build>
 		<plugins>
-			
+		
+			<!-- plugin for apigee deployment -->
 			<plugin>
 				<artifactId>maven-clean-plugin</artifactId>
 				<version>2.5</version>

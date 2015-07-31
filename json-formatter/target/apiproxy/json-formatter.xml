@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><APIProxy name="json-formatter" revision="2">
     <ConfigurationVersion majorVersion="4" minorVersion="0"/>
     <CreatedBy>bdhanashetti@sapient.com</CreatedBy>
-    <Description>bdhana git revision unknown BLRBDHANA45414 ::Recommended JSON formatter</Description>
+    <Description>bdhana git: 2cde800e BLRBDHANA45414 ::Recommended JSON formatter</Description>
     <DisplayName>Marks and Spencers JSON Formatter</DisplayName>
     
     <Policies>
